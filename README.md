@@ -29,7 +29,7 @@ None. Just have git installed if you are looking to install the full repo. Other
 
 1) Using git:
 ```bash
-git clone https://github.com/h8ngryDev4Hire/Ask-Genie.git
+git clone https://github.com/Liquidbuiltit/Ask-Genie.git
 ```
 
 2) On Chrome, access your extensions page and make sure that 'Developer Mode' is enabled.
@@ -64,4 +64,4 @@ We welcome contributions from the community! If you're interested in contributin
 
 ### License
 
-This project is licensed under the GPL3 License. Check [LICENSE.md](https://github.com/h8ngryDev4Hire/Ask-Genie/blob/main/LICENSE.md) for more information.
+This project is licensed under the GPL3 License. Check [LICENSE.md](https://github.com/Liquidbuiltit/Ask-Genie/blob/main/LICENSE.md) for more information.
